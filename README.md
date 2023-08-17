@@ -29,7 +29,7 @@ npm run test
 
 * Twitter: [@ee361f21a80f486](https://twitter.com/ee361f21a80f486)
 * Github: [@vishal2819](https://github.com/vishal2819)
-* LinkedIn: [@Vishal Ramteke](https://linkedin.com/in/Vishal Ramteke)
+* LinkedIn: [@Vishal Ramteke](https://linkedin.com/in/vishal-ramteke95)
 
 ## Show your support
 
